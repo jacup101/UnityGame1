@@ -1,0 +1,14 @@
+teleport
+DistanceVal: 5
+ChunkLength: 20
+SpawnSpeeders: True
+SpawnGravs: False
+teleport
+individual
+vertical
+simulVert
+mixed
+hardmixed
+movemixed
+opaqueIndividual
+moving

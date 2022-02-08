@@ -1,0 +1,9 @@
+hordiag
+DistanceVal: .5
+ChunkLength: 20
+colors
+SpawnSpeeders: True
+SpawnGravs: True
+teleport
+hordiag
+simulvert

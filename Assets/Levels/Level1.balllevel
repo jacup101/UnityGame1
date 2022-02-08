@@ -1,0 +1,9 @@
+individual
+DistanceVal: 10
+ChunkLength: 20
+colors
+SpawnSpeeders: True
+SpawnGravs: False
+individual
+moving
+mixed
